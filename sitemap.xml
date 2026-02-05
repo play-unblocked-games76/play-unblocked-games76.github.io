@@ -2,61 +2,391 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://play-unblocked-games76.github.io/</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/category/arcade.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/category/shooting.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/category/soccer.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/category/2-players.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/category/3d.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/category/adventure.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/category/clicker.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/category/multiplayer.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://play-unblocked-games76.github.io/play/color-ball-rush_75465.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75465.jpg</image:loc>
+      <image:title>Color Ball Rush</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/ant-food-guider_75857.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75857.jpg</image:loc>
+      <image:title>Ant food guider</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/among-crowds_75851.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75851.jpg</image:loc>
+      <image:title>Among Crowds</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/chill-tic-tac-toe_75059.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75059.jpg</image:loc>
+      <image:title>Chill Tic Tac Toe</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/bubble-shooter-crystal-hunt_75811.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75811.jpg</image:loc>
+      <image:title>Bubble Shooter Crystal Hunt</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/president-2048_75380.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75380.jpg</image:loc>
+      <image:title>President 2048</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/gravity-dunk_75115.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75115.jpg</image:loc>
+      <image:title>Gravity Dunk</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/makeup-run-challenge_75390.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75390.jpg</image:loc>
+      <image:title>Makeup Run Challenge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/skyatoms_75491.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75491.jpg</image:loc>
+      <image:title>SkyAtoms</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/street-mayhem-driver_75817.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75817.jpg</image:loc>
+      <image:title>Street Mayhem Driver</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/car-eats-car-sea-adventure_1655.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/1655.jpg</image:loc>
+      <image:title>Car Eats Car: Sea Adventure</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/professional-archerist_75816.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75816.jpg</image:loc>
+      <image:title>Professional Archerist</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/luggage-collect-game_75694.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75694.jpg</image:loc>
+      <image:title>Luggage Collect Game</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/roll-dice-mob-control_75500.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75500.jpg</image:loc>
+      <image:title>Roll Dice Mob Control</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/epic-robot-combat-simulator_75202.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75202.jpg</image:loc>
+      <image:title>Epic Robot Combat Simulator</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/lifebuoy-planing_75812.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75812.jpg</image:loc>
+      <image:title>Lifebuoy Planing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/stack-ball-run_75609.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75609.jpg</image:loc>
+      <image:title>Stack Ball Run</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/kpop-hunter-coloring_75335.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75335.jpg</image:loc>
+      <image:title>kpop hunter coloring</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/math-speedrunner_75318.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75318.jpg</image:loc>
+      <image:title>Math Speedrunner</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/pop-the-fruits_74961.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/74961.jpg</image:loc>
+      <image:title>Pop the Fruits</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/best-2048_74586.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/74586.jpg</image:loc>
+      <image:title>best 2048</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/jingle-drop-challenge_73924.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/73924.jpg</image:loc>
+      <image:title>Jingle Drop Challenge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/domino-smashfall_75687.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75687.jpg</image:loc>
+      <image:title>Domino Smashfall</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/easy-coloring-spongy-adventure_75774.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75774.jpg</image:loc>
+      <image:title>Easy Coloring Spongy Adventure</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/horrorland-defense_75779.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75779.jpg</image:loc>
+      <image:title>HorrorLand Defense</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/bull-time-shooter_75777.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75777.jpg</image:loc>
+      <image:title>Bull Time Shooter</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/pixel-flow_75645.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75645.jpg</image:loc>
+      <image:title>Pixel Flow</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/epicshooter3d_74682.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/74682.jpg</image:loc>
+      <image:title>epicshooter3d</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/k-pop-hunters-valentine-style_75722.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75722.jpg</image:loc>
+      <image:title>K Pop Hunters Valentine Style</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/star-breakout_75747.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75747.jpg</image:loc>
+      <image:title>Star Breakout</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/sapotago_75490.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75490.jpg</image:loc>
+      <image:title>SapotaGo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/hoop-pair_75492.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75492.jpg</image:loc>
+      <image:title>Hoop Pair</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/last-quiver_75493.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75493.jpg</image:loc>
+      <image:title>Last Quiver</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://play-unblocked-games76.github.io/play/racing-portal_72337.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -66,7 +396,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/edge-of-survival_72022.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -76,7 +406,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/space-io_72408.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -86,7 +416,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/color-sort-impostor-edition_74784.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -96,7 +426,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/block-21_75062.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -106,7 +436,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/merge-monster-fight_75505.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -116,7 +446,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/car-eats-car-arctic-adventure_33389.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -126,7 +456,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/neon-viper_74012.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -136,7 +466,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/stickman-dismounting-2026_74585.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -146,7 +476,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/car-wash-simulator-game_75604.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -156,7 +486,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/alien-memory_75262.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -166,7 +496,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/guess-the-fruit-world-quiz_75654.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -175,18 +505,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://play-unblocked-games76.github.io/play/car-eats-car-volcanic-adventure_33387.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/33387.jpg</image:loc>
-      <image:title>Car Eats Car: Volcanic Adventure</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://play-unblocked-games76.github.io/play/truckers-offroad-cargo-transport_75553.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -196,7 +516,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/rainbow-monster-survival_75514.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -205,48 +525,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://play-unblocked-games76.github.io/play/hospital-doctor-emergency_74584.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/74584.jpg</image:loc>
-      <image:title>Hospital Doctor Emergency</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/drag-n-drop-games-color-match_75079.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75079.jpg</image:loc>
-      <image:title>Drag n Drop Games Color Match</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/minesweeper-find-bombs_75274.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75274.jpg</image:loc>
-      <image:title>Minesweeper: Find Bombs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/combo-crush_75287.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75287.jpg</image:loc>
-      <image:title>Combo Crush</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://play-unblocked-games76.github.io/play/the-hardest-game-in-world-and-ever_75326.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -255,28 +535,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://play-unblocked-games76.github.io/play/escape-the-police_75396.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75396.jpg</image:loc>
-      <image:title>Escape the Police</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/niche-shift_75399.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75399.jpg</image:loc>
-      <image:title>Niche Shift</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://play-unblocked-games76.github.io/play/tung-sahur-tycoon-obby_75431.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -286,7 +546,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/color-switch-dash_75444.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -295,18 +555,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://play-unblocked-games76.github.io/play/aqua-logics-puzzle-new_73293.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/73293.jpg</image:loc>
-      <image:title>Aqua   Logics puzzle new</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://play-unblocked-games76.github.io/play/time-fracture_75313.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -316,7 +566,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/shape-shift-survival_73632.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -326,7 +576,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/laser-dodge-arena_73168.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -335,28 +585,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://play-unblocked-games76.github.io/play/labubu-platform-challenge_75607.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75607.jpg</image:loc>
-      <image:title>Labubu Platform Challenge</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/fruit-sort-logic_75598.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75598.jpg</image:loc>
-      <image:title>Fruit Sort Logic</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://play-unblocked-games76.github.io/play/blocky-combat-swat-original-2026_74579.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -365,108 +595,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://play-unblocked-games76.github.io/play/idle-defense-grid_75477.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75477.jpg</image:loc>
-      <image:title>Idle Defense Grid</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/muscle-master-quest_75472.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75472.jpg</image:loc>
-      <image:title>Muscle Master Quest</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/dinosaur-merge-quest_75389.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75389.jpg</image:loc>
-      <image:title>Dinosaur Merge Quest</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/tower-war_75445.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75445.jpg</image:loc>
-      <image:title>Tower War</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/labubu-wheelie-challenge_75480.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75480.jpg</image:loc>
-      <image:title>Labubu Wheelie Challenge</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/memory-emoji_75160.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75160.jpg</image:loc>
-      <image:title>Memory Emoji</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/bubble-shooter-relaxing-puzzle_73874.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/73874.jpg</image:loc>
-      <image:title>Bubble Shooter Relaxing Puzzle</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/precision-car-parking-3d_75341.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75341.jpg</image:loc>
-      <image:title>Precision Car Parking 3D</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/sweet-triple-mahjong_75299.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75299.jpg</image:loc>
-      <image:title>Sweet Triple Mahjong</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/car-eats-car-dungeon-adventure_1650.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/1650.jpg</image:loc>
-      <image:title>Car Eats Car: Dungeon Adventure</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://play-unblocked-games76.github.io/play/zombie-shooter-sniper-game_73880.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -475,78 +605,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://play-unblocked-games76.github.io/play/fantastic-cubic-dash_65795.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/65795.jpg</image:loc>
-      <image:title>Fantastic Cubic Dash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/ham_66421.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/66421.jpg</image:loc>
-      <image:title>HAM</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/car-parkour-challenge_74924.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/74924.jpg</image:loc>
-      <image:title>Car Parkour Challenge</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/draw-a-perfect-circle_75208.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75208.jpg</image:loc>
-      <image:title>Draw a Perfect Circle</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/tralalero-tralala-tycoon-obby_75329.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75329.jpg</image:loc>
-      <image:title>tralalero tralala Tycoon + Obby</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/mecha-allstars-battle-royale_75190.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75190.jpg</image:loc>
-      <image:title>Mecha Allstars Battle Royale</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/ocean-catcher-fun_74098.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/74098.jpg</image:loc>
-      <image:title>Ocean Catcher fun</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://play-unblocked-games76.github.io/play/gas-station-survival_75284.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -556,7 +616,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/gunship-shooting-attack-game-3d_74220.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -566,7 +626,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/capybara-winter-curse_74893.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -576,7 +636,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/marnyl-silence-the-haters_74312.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -586,7 +646,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/urban-sniper-2_74232.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -596,7 +656,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/blocky-zombie-shooting_74125.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -606,7 +666,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/the-horde_73812.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -616,7 +676,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/the-zombie-house_73553.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -626,7 +686,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/cosmic-defender_73590.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -636,7 +696,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/super-zombie-shooter-2_73391.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -646,7 +706,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/stickman-archer-kick_73169.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -656,7 +716,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/space-brawlers-tds_73102.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -666,7 +726,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/horde-zombie-war_71468.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -676,7 +736,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/overlook-tank-war_72347.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -686,7 +746,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/the-bunny-vs-the-gardener_72163.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -696,7 +756,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/fnaf-strike-halloween_72206.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -705,78 +765,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://play-unblocked-games76.github.io/play/many-bricks-breaker_71533.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/71533.jpg</image:loc>
-      <image:title>Many Bricks Breaker</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/farm-defense_71235.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/71235.jpg</image:loc>
-      <image:title>Farm Defense</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/battle-swat-vs-mercenary-zombie-survival_70719.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/70719.jpg</image:loc>
-      <image:title>Battle SWAT vs Mercenary Zombie Survival</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/rapid-match_70773.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/70773.jpg</image:loc>
-      <image:title>Rapid Match</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/bloons-battles_70495.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/70495.jpg</image:loc>
-      <image:title>Bloons Battles</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/lastwar-survival_70294.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/70294.jpg</image:loc>
-      <image:title>LastWar Survival</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://play-unblocked-games76.github.io/play/xtreme-good-and-bad-boys-2-2025_70246.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/70246.jpg</image:loc>
-      <image:title>Xtreme Good And Bad Boys 2 2025</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://play-unblocked-games76.github.io/play/coin-flick-soccer_71656.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -786,7 +776,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/tank-soccer-battle-1-2-3-4-player_63028.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -796,7 +786,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/floorland-creator_56058.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -806,7 +796,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/goal-dot-3d_56048.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -816,7 +806,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/football-king_54284.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -826,7 +816,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/shaolin-soccer_52208.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -836,7 +826,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/asian-cup-soccer_52181.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -846,7 +836,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/halloween-soccer_50029.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -856,7 +846,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/mini-soccer_49940.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -866,7 +856,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/grimace-ball-jumpling_48631.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -876,7 +866,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/skibidi-toilet-ball-juggling_48370.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -886,7 +876,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/womens-world-cup-2023_47973.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -896,7 +886,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/messi-new-challenge_47635.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -906,7 +896,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/neymar-can-play_45384.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -916,7 +906,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/rumble-stars-football_38032.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -926,7 +916,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/el-clasico_44993.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -936,7 +926,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/magic-soccer_42683.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -946,7 +936,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/balles_42743.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -956,7 +946,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/tap-goal_43705.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -966,7 +956,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/head-soccer-2023-2d_44017.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -976,7 +966,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/mini-head-basketball_42276.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -986,7 +976,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/free-kick-world-cup-2022_41857.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -996,7 +986,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/head-socce2022_36548.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1006,7 +996,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/ketchapp-basketball_39679.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1016,7 +1006,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/géométrie-clash-go_39681.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1026,7 +1016,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/boom-duello_74852.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1036,7 +1026,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/head-ball-challenge_74885.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1046,7 +1036,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/dots-and-boxes-2_73352.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1056,7 +1046,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/clonium_71866.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1066,7 +1056,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/apex-rush_72366.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1076,7 +1066,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/d-race-x_72340.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1086,7 +1076,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/fantasy-brothers_71432.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1096,7 +1086,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/xo-for-bro_70309.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1106,7 +1096,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/blockcraft-together_70202.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1116,7 +1106,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/duo-adventures-legacy-of-traps_69758.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1126,7 +1116,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/squirrels-draw-your-level_68977.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1136,7 +1126,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/match-fighter_68880.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1146,7 +1136,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/tic-tac-toe-2025_65039.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1156,7 +1146,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/pro-pong-game_68319.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1166,7 +1156,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/bank-boom-tung-tung-sahur_67163.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1176,7 +1166,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/stone-sheet-shears_64664.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1186,7 +1176,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/domino-online-multiplayer_65767.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1196,7 +1186,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/ludo-king-offline-ludo-game_65691.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1206,7 +1196,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/santa-giftbox-2-player_60541.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1216,7 +1206,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/tic-tak-to_64322.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1226,7 +1216,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/2player-tanks-of-war_63001.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1235,18 +1225,18 @@
     </image:image>
   </url>
   <url>
-    <loc>https://play-unblocked-games76.github.io/play/baby-noob-vs-baby-obby-horse_63287.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <loc>https://play-unblocked-games76.github.io/play/precision-car-parking-3d_75341.html</loc>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/63287.jpg</image:loc>
-      <image:title>Baby Noob vs Baby Obby Horse</image:title>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75341.jpg</image:loc>
+      <image:title>Precision Car Parking 3D</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/destroy-godzillas-3d-shooter_75267.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1256,7 +1246,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/3d-maze-control_74179.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1266,7 +1256,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/color-auction-studio_75275.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1276,7 +1266,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/reality-of-cosmos_74851.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1286,7 +1276,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/vice-city-mad-driving_75116.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1296,7 +1286,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/sugar-blast-snowy-pop_74176.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1306,7 +1296,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/goods-triple-match-3d_74572.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1316,7 +1306,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/cosmic-glider_74085.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1326,7 +1316,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/mr-dude-king-of-the-hill_51878.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1336,7 +1326,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/dead-survival-zombie-shooter_73670.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1346,7 +1336,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/draw-dot-picture-game_73343.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1356,7 +1346,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/men-vs-gorillas_73418.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1366,7 +1356,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/big-supermarket-simulator_73300.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1376,7 +1366,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/roll-away-3d_64131.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1386,7 +1376,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/abyssal-echoes_72341.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1396,7 +1386,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/ace-drift-3d_72290.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1406,7 +1396,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/bus-park-3d_72327.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1416,7 +1406,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/crowd-runners-3d_72288.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1426,7 +1416,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/3d-halloween-jigsaw_72242.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1436,7 +1426,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/hot-highway_71611.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1446,7 +1436,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/slime-farm_71603.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1455,28 +1445,28 @@
     </image:image>
   </url>
   <url>
-    <loc>https://play-unblocked-games76.github.io/play/super-football-fever_71822.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <loc>https://play-unblocked-games76.github.io/play/dinosaur-merge-quest_75389.html</loc>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/71822.jpg</image:loc>
-      <image:title>Super Football Fever</image:title>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75389.jpg</image:loc>
+      <image:title>Dinosaur Merge Quest</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://play-unblocked-games76.github.io/play/ghost-ninja_71285.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <loc>https://play-unblocked-games76.github.io/play/mecha-allstars-battle-royale_75190.html</loc>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/71285.jpg</image:loc>
-      <image:title>Ghost Ninja</image:title>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75190.jpg</image:loc>
+      <image:title>Mecha Allstars Battle Royale</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/aqua-fish-rush_75290.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1486,7 +1476,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/adventure-park-master_70814.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1496,7 +1486,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/car-climb-mountain_73977.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1506,7 +1496,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/endless-cube-runner_74835.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1516,7 +1506,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/stickman-escape-out_74705.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1526,7 +1516,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/smashmetal-car-wrek-wars_68852.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1536,7 +1526,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/farm-house-crash-match-game_73361.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1546,7 +1536,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/adventure-rush_74102.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1556,7 +1546,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/nutsforwinter_73982.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1566,7 +1556,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/trump-winter-adventure_73928.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1576,7 +1566,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/jumping-birds_70800.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1586,7 +1576,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/ultimate-bike-stunt-racing_73145.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1596,7 +1586,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/fps-shooting-game-3d-gun-game_72643.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1606,7 +1596,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/alien-forest-jump_73098.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1616,7 +1606,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/dog-racing-master-game_72610.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1626,7 +1616,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/eventide_68536.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1636,7 +1626,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/bear-ball-master-honey-king_70297.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1645,18 +1635,28 @@
     </image:image>
   </url>
   <url>
-    <loc>https://play-unblocked-games76.github.io/play/rat-purrsuit_68540.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <loc>https://play-unblocked-games76.github.io/play/combo-crush_75287.html</loc>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/68540.jpg</image:loc>
-      <image:title>Rat Purrsuit</image:title>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75287.jpg</image:loc>
+      <image:title>Combo Crush</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://play-unblocked-games76.github.io/play/tower-war_75445.html</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/75445.jpg</image:loc>
+      <image:title>Tower War</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/colosseum-battle_75146.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1666,7 +1666,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/digit-hunter_74540.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1676,7 +1676,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/bubble-shooter-aura_74316.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1686,7 +1686,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/aquasort-2-color-puzzle_73891.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1696,7 +1696,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/real-estate-tycoon_74315.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1706,7 +1706,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/suika-game-2_73883.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1716,7 +1716,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/zig-zag-color_74498.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1726,7 +1726,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/fruit-shotter_73857.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1736,7 +1736,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/monster-boom-boom_73405.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1746,7 +1746,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/fruit-catchere_72659.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1756,7 +1756,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/neon-pulse-arena_73547.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1766,7 +1766,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/dunkchallenge_73287.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1776,7 +1776,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/funny-sounds_72508.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1786,7 +1786,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/wordly_71397.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1796,7 +1796,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/magic-farm-clicker_71313.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1806,7 +1806,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/four-in-a-row_71156.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1816,7 +1816,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/super-tris-tic-tac-toe_71154.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1826,7 +1826,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/quiz-education_69377.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1836,7 +1836,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/bubble-sorting-infinite-remastered_70448.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1846,7 +1846,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/zippy-bird-game_70178.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1855,18 +1855,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://play-unblocked-games76.github.io/play/fishdom_70217.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://play-unblocked-games76.github.io/assets/game-thumbnails/70217.jpg</image:loc>
-      <image:title>Fishdom</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://play-unblocked-games76.github.io/play/whot-the-ultimate-nigerian-card-game_71988.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1876,7 +1866,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/english-checkers_72302.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1886,7 +1876,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/fall-guys-unblocked-web-multiplayer_70961.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1896,7 +1886,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/battle-swat-vs-mercenary-remaster_70669.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1906,7 +1896,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/pga-toons_70256.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1916,7 +1906,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/pga3-zombie_70462.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1926,7 +1916,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/super-sprunki-adventure-game_67825.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1936,7 +1926,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/counter-terror-3d_64790.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1946,7 +1936,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/sure-shot_64461.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1956,7 +1946,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/qolor-2048_62378.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1966,7 +1956,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/gomoku-five-stones-in-a-row_53224.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1976,7 +1966,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/survevio_59414.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1986,7 +1976,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/battle-jitsu_58068.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -1996,7 +1986,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/giveaway-checkers_58246.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2006,7 +1996,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/quiz-goose-math_58301.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2016,7 +2006,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/billiard-champion_41742.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2026,7 +2016,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/snowball-speed_55868.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2036,7 +2026,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/dino-war-birds_53265.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2046,7 +2036,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/ballon-race-3d_55224.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2056,7 +2046,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/math-challenge-online_55014.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2066,7 +2056,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/ludo-maximus_52903.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2076,7 +2066,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/racing-gun_53602.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2086,7 +2076,7 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/play/rolling-ballsio_53047.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -2096,19 +2086,19 @@
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/privacy-policy.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/terms-of-use.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://play-unblocked-games76.github.io/about.html</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
